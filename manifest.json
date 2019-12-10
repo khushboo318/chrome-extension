@@ -5,7 +5,7 @@
   "description": "Quick launch chrome-extension Media",
   "version": "1.0.0",
   "browser_action": {
-    "default_popup": "chrome-extension.html"
+    "default_popup": "index.html"
   },
   "permissions": ["activeTab"]
 }
